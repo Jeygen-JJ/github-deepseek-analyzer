@@ -1,0 +1,23 @@
+[
+  {
+    "full_name": "browser-use/browser-use",
+    "description": "Make websites accessible for AI agents. Automate browser tasks with Python.",
+    "stars": 101252,
+    "open_issues": 281,
+    "readme_text": "browser-use is a Python library for building AI agents that can use a browser. Installation: pip install browser-use. Quickstart: create an Agent, give it a task, and run it. Examples include opening websites, extracting information, and summarizing page content. Requirements: Python and a local or remote language model. Some tasks may need API keys or tokens depending on the model provider. This project is useful for learning browser automation, agent workflows, and how AI tools interact with web pages."
+  },
+  {
+    "full_name": "langchain-ai/langchain",
+    "description": "A framework and ecosystem for building applications powered by language models.",
+    "stars": 140449,
+    "open_issues": 413,
+    "readme_text": "LangChain helps developers build applications with LLMs. It includes tools for chains, agents, retrieval, integrations, and production workflows. Getting started usually means installing packages, reading the documentation, and trying a small example. The project has many modules and a large ecosystem, so beginners should start with one simple tutorial instead of trying to understand everything at once."
+  },
+  {
+    "full_name": "Shubhamsaboo/awesome-llm-apps",
+    "description": "A collection of AI Agent and RAG apps that can be cloned, customized, and shipped.",
+    "stars": 115998,
+    "open_issues": 6,
+    "readme_text": "awesome-llm-apps collects practical LLM, RAG, and AI agent examples. The repository includes many demo applications and examples that learners can browse. Some projects may require Python, dependencies, API keys, tokens, or model provider accounts. Beginners can pick one small example, install its requirements, and run it locally before exploring more advanced projects."
+  }
+]

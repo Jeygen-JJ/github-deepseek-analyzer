@@ -1,0 +1,7 @@
+{
+  "full_name": "browser-use/browser-use",
+  "description": "Make websites accessible for AI agents. Automate browser tasks with Python.",
+  "stars": 101252,
+  "open_issues": 281,
+  "readme_text": "browser-use is a Python library for building AI agents that can use a browser. Installation: pip install browser-use. Quickstart: create an Agent, give it a task, and run it. Examples include opening websites, extracting information, and summarizing page content. Requirements: Python and a local or remote language model. Some tasks may need API keys or tokens depending on the model provider. This project is useful for learning browser automation, agent workflows, and how AI tools interact with web pages."
+}

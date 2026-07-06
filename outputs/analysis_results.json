@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "success": true,
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 210026,
+      "open_issues": 26125,
+      "project_summary": "Hermes Agent 是一个智能代理项目，旨在与用户共同成长，但当前信息有限。",
+      "beginner_difficulty": "高",
+      "learning_value": "中",
+      "suggested_first_step": "建议先学习 Python 基础，再查看项目文档和代码结构。",
+      "risk_warning": "项目星标数高但未关闭 issue 数也极高，可能存在维护滞后或复杂问题，不适合初学者直接参与。",
+      "metadata_score": 70,
+      "ai_learning_score": 50,
+      "final_score": 58.0,
+      "final_recommendation": "先收藏，暂缓学习"
+    }
+  ],
+  "failed_results": []
+}
